@@ -25,4 +25,12 @@ I am doing DSA in java .
 |  |
 | ------- |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/swapnil0045/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+## Math
+|  |
+| ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/swapnil0045/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Simulation
+|  |
+| ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/swapnil0045/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
