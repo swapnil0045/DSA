@@ -9,6 +9,7 @@ I am doing DSA in java .
 | [0001-two-sum](https://github.com/swapnil0045/DSA/tree/master/0001-two-sum) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/swapnil0045/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swapnil0045/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1833-maximum-ice-cream-bars](https://github.com/swapnil0045/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/swapnil0045/DSA/tree/master/1929-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/swapnil0045/DSA/tree/master/2079-watering-plants) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/swapnil0045/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -38,4 +39,16 @@ I am doing DSA in java .
 | [1929-concatenation-of-array](https://github.com/swapnil0045/DSA/tree/master/1929-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/swapnil0045/DSA/tree/master/2079-watering-plants) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/swapnil0045/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/swapnil0045/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/swapnil0045/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/swapnil0045/DSA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
