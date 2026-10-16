@@ -7,6 +7,7 @@ I am doing DSA in java .
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swapnil0045/DSA/tree/master/0001-two-sum) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/swapnil0045/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/swapnil0045/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swapnil0045/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/swapnil0045/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -57,4 +58,12 @@ I am doing DSA in java .
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/swapnil0045/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/swapnil0045/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/swapnil0045/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
