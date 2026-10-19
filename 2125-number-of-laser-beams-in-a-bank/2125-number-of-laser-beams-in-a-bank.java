@@ -3,10 +3,10 @@ class Solution {
         int ans = 0;
         int count1 = 0;
 
-        for (int i = 0; i < bank.length; i++) {
+        for (String row : bank) {
             int count2 = 0;
-            for (int j = 0; j < bank[i].length(); j++) {
-                if (bank[i].charAt(j) == '1') {
+            for (char ch : row.toCharArray()) {
+                if (ch == '1') {
                     count2++;
                 }
             }
@@ -18,6 +18,5 @@ class Solution {
         }
 
         return ans;
-
     }
 }
