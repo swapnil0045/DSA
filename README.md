@@ -18,6 +18,7 @@ I am doing DSA in java .
 | [2161-partition-array-according-to-given-pivot](https://github.com/swapnil0045/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/swapnil0045/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/swapnil0045/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/swapnil0045/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/swapnil0045/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/swapnil0045/DSA/tree/master/2678-number-of-senior-citizens) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/swapnil0045/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -26,6 +27,7 @@ I am doing DSA in java .
 | ------- |
 | [0001-two-sum](https://github.com/swapnil0045/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/swapnil0045/DSA/tree/master/0242-valid-anagram) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/swapnil0045/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/swapnil0045/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
