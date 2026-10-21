@@ -8,6 +8,7 @@ I am doing DSA in java .
 | ------- |
 | [0001-two-sum](https://github.com/swapnil0045/DSA/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swapnil0045/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0198-house-robber](https://github.com/swapnil0045/DSA/tree/master/0198-house-robber) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swapnil0045/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/swapnil0045/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swapnil0045/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -91,4 +92,8 @@ I am doing DSA in java .
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/swapnil0045/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/swapnil0045/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/swapnil0045/DSA/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
