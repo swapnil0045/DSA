@@ -19,6 +19,7 @@ I am doing DSA in java .
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/swapnil0045/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/swapnil0045/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/swapnil0045/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2678-number-of-senior-citizens](https://github.com/swapnil0045/DSA/tree/master/2678-number-of-senior-citizens) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/swapnil0045/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ I am doing DSA in java .
 | [0242-valid-anagram](https://github.com/swapnil0045/DSA/tree/master/0242-valid-anagram) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swapnil0045/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/swapnil0045/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2678-number-of-senior-citizens](https://github.com/swapnil0045/DSA/tree/master/2678-number-of-senior-citizens) |
 ## Prefix Sum
 |  |
 | ------- |
