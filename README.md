@@ -54,6 +54,7 @@ I am doing DSA in java .
 | [2235-add-two-integers](https://github.com/swapnil0045/DSA/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/swapnil0045/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swapnil0045/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/swapnil0045/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
@@ -97,8 +98,13 @@ I am doing DSA in java .
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/swapnil0045/DSA/tree/master/0198-house-robber) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/swapnil0045/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swapnil0045/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/swapnil0045/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
