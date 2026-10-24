@@ -28,12 +28,14 @@ I am doing DSA in java .
 | ------- |
 | [0001-two-sum](https://github.com/swapnil0045/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/swapnil0045/DSA/tree/master/0242-valid-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/swapnil0045/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/swapnil0045/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/swapnil0045/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/swapnil0045/DSA/tree/master/0242-valid-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/swapnil0045/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swapnil0045/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/swapnil0045/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2678-number-of-senior-citizens](https://github.com/swapnil0045/DSA/tree/master/2678-number-of-senior-citizens) |
@@ -70,11 +72,13 @@ I am doing DSA in java .
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/swapnil0045/DSA/tree/master/0242-valid-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/swapnil0045/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/swapnil0045/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/swapnil0045/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Counting Sort
 |  |
 | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/swapnil0045/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/swapnil0045/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
