@@ -10,6 +10,7 @@ I am doing DSA in java .
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swapnil0045/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0198-house-robber](https://github.com/swapnil0045/DSA/tree/master/0198-house-robber) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swapnil0045/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0942-di-string-match](https://github.com/swapnil0045/DSA/tree/master/0942-di-string-match) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/swapnil0045/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swapnil0045/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/swapnil0045/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -38,6 +39,7 @@ I am doing DSA in java .
 | [0171-excel-sheet-column-number](https://github.com/swapnil0045/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/swapnil0045/DSA/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swapnil0045/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0942-di-string-match](https://github.com/swapnil0045/DSA/tree/master/0942-di-string-match) |
 | [1657-determine-if-two-strings-are-close](https://github.com/swapnil0045/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swapnil0045/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/swapnil0045/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -71,6 +73,7 @@ I am doing DSA in java .
 ## Greedy
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/swapnil0045/DSA/tree/master/0942-di-string-match) |
 | [1833-maximum-ice-cream-bars](https://github.com/swapnil0045/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
@@ -90,6 +93,7 @@ I am doing DSA in java .
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swapnil0045/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/swapnil0045/DSA/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swapnil0045/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0942-di-string-match](https://github.com/swapnil0045/DSA/tree/master/0942-di-string-match) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/swapnil0045/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
