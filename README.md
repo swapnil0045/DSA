@@ -35,6 +35,7 @@ I am doing DSA in java .
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/swapnil0045/DSA/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/swapnil0045/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/swapnil0045/DSA/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swapnil0045/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/swapnil0045/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -53,6 +54,7 @@ I am doing DSA in java .
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/swapnil0045/DSA/tree/master/0171-excel-sheet-column-number) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/swapnil0045/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/swapnil0045/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/swapnil0045/DSA/tree/master/2235-add-two-integers) |
