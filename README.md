@@ -36,6 +36,7 @@ I am doing DSA in java .
 | ------- |
 | [0125-valid-palindrome](https://github.com/swapnil0045/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/swapnil0045/DSA/tree/master/0242-valid-anagram) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/swapnil0045/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/swapnil0045/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swapnil0045/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/swapnil0045/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -86,6 +87,7 @@ I am doing DSA in java .
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swapnil0045/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/swapnil0045/DSA/tree/master/0125-valid-palindrome) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/swapnil0045/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/swapnil0045/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
