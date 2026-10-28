@@ -29,6 +29,7 @@ I am doing DSA in java .
 | ------- |
 | [0001-two-sum](https://github.com/swapnil0045/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/swapnil0045/DSA/tree/master/0242-valid-anagram) |
+| [0763-partition-labels](https://github.com/swapnil0045/DSA/tree/master/0763-partition-labels) |
 | [1657-determine-if-two-strings-are-close](https://github.com/swapnil0045/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/swapnil0045/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/swapnil0045/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -39,6 +40,7 @@ I am doing DSA in java .
 | [0171-excel-sheet-column-number](https://github.com/swapnil0045/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/swapnil0045/DSA/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swapnil0045/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/swapnil0045/DSA/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/swapnil0045/DSA/tree/master/0942-di-string-match) |
 | [1657-determine-if-two-strings-are-close](https://github.com/swapnil0045/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swapnil0045/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -73,6 +75,7 @@ I am doing DSA in java .
 ## Greedy
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/swapnil0045/DSA/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/swapnil0045/DSA/tree/master/0942-di-string-match) |
 | [1833-maximum-ice-cream-bars](https://github.com/swapnil0045/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
@@ -93,6 +96,7 @@ I am doing DSA in java .
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swapnil0045/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/swapnil0045/DSA/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swapnil0045/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/swapnil0045/DSA/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/swapnil0045/DSA/tree/master/0942-di-string-match) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/swapnil0045/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
