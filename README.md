@@ -62,6 +62,7 @@ I am doing DSA in java .
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/swapnil0045/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/swapnil0045/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/swapnil0045/DSA/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/swapnil0045/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/swapnil0045/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swapnil0045/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swapnil0045/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -99,6 +100,7 @@ I am doing DSA in java .
 | [0763-partition-labels](https://github.com/swapnil0045/DSA/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/swapnil0045/DSA/tree/master/0942-di-string-match) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/swapnil0045/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/swapnil0045/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,4 +127,8 @@ I am doing DSA in java .
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swapnil0045/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/swapnil0045/DSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
