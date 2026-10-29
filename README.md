@@ -46,6 +46,7 @@ I am doing DSA in java .
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swapnil0045/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/swapnil0045/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2678-number-of-senior-citizens](https://github.com/swapnil0045/DSA/tree/master/2678-number-of-senior-citizens) |
+| [3794-reverse-string-prefix](https://github.com/swapnil0045/DSA/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,6 +102,7 @@ I am doing DSA in java .
 | [0942-di-string-match](https://github.com/swapnil0045/DSA/tree/master/0942-di-string-match) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/swapnil0045/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/swapnil0045/DSA/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/swapnil0045/DSA/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
