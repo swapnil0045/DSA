@@ -46,6 +46,7 @@ I am doing DSA in java .
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swapnil0045/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/swapnil0045/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2678-number-of-senior-citizens](https://github.com/swapnil0045/DSA/tree/master/2678-number-of-senior-citizens) |
+| [3271-hash-divided-string](https://github.com/swapnil0045/DSA/tree/master/3271-hash-divided-string) |
 | [3794-reverse-string-prefix](https://github.com/swapnil0045/DSA/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
 |  |
@@ -74,6 +75,7 @@ I am doing DSA in java .
 | [2079-watering-plants](https://github.com/swapnil0045/DSA/tree/master/2079-watering-plants) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/swapnil0045/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/swapnil0045/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3271-hash-divided-string](https://github.com/swapnil0045/DSA/tree/master/3271-hash-divided-string) |
 ## Greedy
 |  |
 | ------- |
