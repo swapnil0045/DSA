@@ -12,6 +12,7 @@ I am doing DSA in java .
 | [0852-peak-index-in-a-mountain-array](https://github.com/swapnil0045/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0942-di-string-match](https://github.com/swapnil0045/DSA/tree/master/0942-di-string-match) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/swapnil0045/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/swapnil0045/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/swapnil0045/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/swapnil0045/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/swapnil0045/DSA/tree/master/1929-concatenation-of-array) |
@@ -61,6 +62,7 @@ I am doing DSA in java .
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/swapnil0045/DSA/tree/master/0171-excel-sheet-column-number) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/swapnil0045/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/swapnil0045/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/swapnil0045/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/swapnil0045/DSA/tree/master/2235-add-two-integers) |
