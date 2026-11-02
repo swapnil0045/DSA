@@ -37,6 +37,7 @@ I am doing DSA in java .
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/swapnil0045/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/swapnil0045/DSA/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/swapnil0045/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/swapnil0045/DSA/tree/master/0242-valid-anagram) |
@@ -56,11 +57,13 @@ I am doing DSA in java .
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/swapnil0045/DSA/tree/master/0067-add-binary) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/swapnil0045/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/swapnil0045/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/swapnil0045/DSA/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/swapnil0045/DSA/tree/master/0171-excel-sheet-column-number) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/swapnil0045/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/swapnil0045/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -73,6 +76,7 @@ I am doing DSA in java .
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/swapnil0045/DSA/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/swapnil0045/DSA/tree/master/1929-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/swapnil0045/DSA/tree/master/2079-watering-plants) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/swapnil0045/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
